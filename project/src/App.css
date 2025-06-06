@@ -2,5 +2,6 @@
   background-image: url('./backgroundImage.jpg');
   background-size: cover;
   background-position: center;
-  height: 1000px;
+  height: 950px;
+  margin-top: 0;
 }

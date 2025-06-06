@@ -1,62 +1,66 @@
+.nav {
+  margin-bottom: 0;
+  height: 76px;
+}
 .navbar1 {
     background-color: white;
     color: black;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 10px 30px;
+    margin-bottom: 0;
     font-size: 14px;
-  }
+}
   
-  .top-left, .top-right {
+.top-left, .top-right {
     display: flex;
     align-items: center;
     gap: 10px;
-  }
+}
   
-  .top-center {
+.top-center {
     flex: 1;
     text-align: center;
-  }
+}
   
-  .top-right a {
+.top-right a {
     text-decoration: none;
     color: black;
-  }
+}
   
-  .navbar2 {
+.navbar2 {
     background-color: #3a3431;
     color: white;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 15px 40px;
-  }
+}
   
-  .part1, .part3 {
+.part1, .part3 {
     display: flex;
     gap: 20px;
-  }
+}
   
-  .part1 a, .part3 a, .part3 .icon {
+.part1 a, .part3 a, .part3 .icon {
     text-decoration: none;
     color: white;
     font-size: 15px;
-  }
+}
   
-  .logo {
+.logo {
     font-weight: bold;
     font-size: 20px;
-  }
+}
   
-  .count {
+.count {
     background-color: white;
     color: black;
     padding: 2px 6px;
     font-size: 12px;
     border-radius: 50%;
     margin-left: 5px;
-  }
+}
   
 
   
