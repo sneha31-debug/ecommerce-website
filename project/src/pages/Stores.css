@@ -1,0 +1,11 @@
+.heading {
+    display: flex;
+    align-items: start;
+    justify-content: start;
+}
+.content {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 160px;
+}
