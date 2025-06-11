@@ -1,19 +1,22 @@
 import React from 'react'
-
+import './Login.css'
 const Login = () => {
   return (
-    <div>
-      <div>
-        <div>
+    <div className='login'>
+      <div className='input-block'>
+        <div className='heading1'>
             <h1>Welcome to Preety Gal</h1>
         </div>
-        <div>
+        <div className='para'>
             <p>jgashfikhjashdk</p>
         </div>
       </div>
-      <div>
+      <div className='heading2'>
         <h2>USER LOGIN</h2>
-        <input/>
+        <div className='input'>
+            <input/>
+            <input/>
+        </div>
       </div>
     </div>
   )
