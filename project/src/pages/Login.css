@@ -1,4 +1,10 @@
 .login {
     display: flex;
     flex-direction: row;
+    gap: 30px;
+    margin: 150px 0 150px 400px;
+    background-color: #3a3431;
+    color: white;
+    width: 650px;
+    height: 500px;
 }
