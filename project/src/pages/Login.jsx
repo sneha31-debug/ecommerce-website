@@ -8,7 +8,7 @@ const Login = () => {
             <h1>Welcome to Preety Gal</h1>
         </div>
         <div className='para'>
-            <p>jgashfikhjashdk</p>
+            <p>jgashfikhjashdkdfgh</p>
         </div>
       </div>
       <div className='heading2'>
